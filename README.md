@@ -1,6 +1,5 @@
 
-live Version of the APP https://we-dev.vercel.app/sign-up?redirect_url=https%3A%2F%2Fwe-dev.vercel.app%2F
----
+live Version of the APP <a href="https://we-dev.vercel.app/sign-up?redirect_url=https%3A%2F%2Fwe-dev.vercel.app%2F"> WE code App</a>
 
 # We Code
 
