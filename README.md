@@ -7,8 +7,8 @@ Certainly! Here is a basic README template for your "We Code" project:
 
 **ConnectDev** is a collaborative platform built for developers, aiming to foster connections, communication, collaboration, and collective coding experiences. It provides a dedicated space for developers to inquire, share knowledge, and collaborate on coding projects in real-time. The platform includes built-in authentication supported by Clerk, enabling users to create or join communities of up to 5 members for seamless collaborative work.
 
-![We <img width="964" alt="wecode" src="https://github.com/Mahtabvariyani/WeCode/assets/108659794/a1630cdd-774a-49b3-b1c0-b59ac0f2a906">
-Code](insert_image_link_here)
+<img width="964" alt="wecode" src="https://github.com/Mahtabvariyani/WeCode/assets/108659794/a1630cdd-774a-49b3-b1c0-b59ac0f2a906">
+
 
 ## Key Technologies
 
