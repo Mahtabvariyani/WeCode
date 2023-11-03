@@ -1,6 +1,5 @@
 
-Certainly! Here is a basic README template for your "We Code" project:
-
+live Version of the APP https://we-dev.vercel.app/sign-up?redirect_url=https%3A%2F%2Fwe-dev.vercel.app%2F
 ---
 
 # We Code
